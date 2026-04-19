@@ -1,0 +1,46 @@
+*{
+    --container-bg: radial-gradient(circle 80vh at 50% 50%, #fb000000, #00000054); 
+    --container-title-bg:-webkit-linear-gradient(#ffffff, #d3d3d336);
+    --container-title-stroke:0.1vh #08000000;
+    --container-title-2-bg:-webkit-linear-gradient(#dd0000, #7a000025);
+    --container-title-2-stroke:0.1vh #08000000;
+
+    --notify-success:#6aff4c1c;
+    --notify-success-border:#2bff0038;
+    --notify-error:#ff000017;
+    --notify-error-border:#ff000038;
+
+    --notify-text:-webkit-linear-gradient(#ffffff, #d3d3d36e);
+    --notify-stroke:0.1vh #2bff0000;
+    --notify-image-bg:#ffffff11;
+    --notify-image-mask:-webkit-linear-gradient(#d6d6d6, #d3d3d36e);
+    --notify-image-stroke:0.1vh #2bff0000;
+
+
+    --continue-button-bg:linear-gradient(to Bottom, #ffffffa6 , #3a3a3ab4);
+    --continue-button-border:0.1vh solid #ffffff2a;
+    --continue-button-text:-webkit-linear-gradient(#ffffff, #d3d3d36e);
+    --continue-button-text-stroke:0.1vh #2bff0000;
+    --continue-button-bg-hover:linear-gradient(to Bottom, #05a000a6 , #11570044);
+    --continue-button-border-hover:0.1vh solid #05a000a6;
+
+    --door-active-bg:linear-gradient(to Bottom, #52000086 , #29000063);
+    --door-active-shadow:0vh 0vh 1.4vh 0vh #000000cb inset;
+    --door-image-active-shadow:drop-shadow(0 0 0.8vh rgba(0, 0, 0, 0.616));
+
+    --door-reward-count-text:-webkit-linear-gradient(#ffffff, #d3d3d36e);
+    --door-reward-count-text-stroke:0.1vh #08000000;
+
+    --gift-opening-container-bg:rgba(0, 0, 0, 0.555);
+    --gift-reward-name-text:-webkit-linear-gradient(#ffffff, #d3d3d36e);
+    --gift-reward-name-text-stroke:0.1vh #08000000;
+
+    --gift-bg:linear-gradient(#691a1a,#c50000);
+    --gift-shadow:0vh 0vh 10vh 0vh #000000 inset;
+    --gift-image-shadow:drop-shadow(0 0 0.8vh rgba(0, 0, 0, 0.616));
+    --gift-ribbon-bg:linear-gradient(#ffffff,#ffefa0);
+    --gift-lid-bg:#cc231e;
+    --gift-lid-shadow:0vh 0vh 4vh 0vh #000000 inset;
+    --gift-lid-ribbon-bg:linear-gradient(#ffefa0,#fff);
+    --gift-bowtie-border:1.6vh solid white;
+} 
